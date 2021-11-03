@@ -1,0 +1,65 @@
+.gallery img{
+    width: 50%
+}
+table{
+    width: 600px;
+}
+th{
+    text-align: left;
+}
+
+table,th,td{
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: inherit;
+    color:darkgreen;
+    
+    
+    
+}
+body
+{
+    font-size: 20px;
+    font-style: oblique;
+    align-content:space-around;
+    background-color: teal;
+    image-resolution:snap;
+    background-blend-mode:difference;
+    text-decoration:inherit;
+    font-family: sans-serif;   
+    
+}
+h1{
+    color:blue;
+    background-color: darkkhaki;
+}
+h2,h3,h4,h5,h6{
+    color: darkblue;
+    background-color: darkkhaki;
+}
+p{
+    color:darkblue;
+    
+}
+
+a{text-decoration: none;
+    color: teal;
+}
+
+#menu a{
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-align:center;
+    text-transform: uppercase;
+    font-size: 16px;
+    line-height: 100px;
+    color: #ffffff;
+    
+    padding: 0 40px;
+    border: none;
+    display: block;
+}
+
+#menu a:hover{
+    background-color: #1abc9c;
+}
